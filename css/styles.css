@@ -404,6 +404,10 @@ margin-bottom: 8px;}
                  }
 
 
+.footer-logo-div {
+margin-right: 120px;
+}
+
 .footer-logo {
     display: inline-block;
     margin-bottom: 16px;
@@ -468,9 +472,9 @@ max-width: 264px;}
 .footer-div {
     display: flex;
     align-items: baseline ;
-    margin-right: 120px;
 }
 
 .footer-contact-icon {
     fill: #f4f4fd;
 }
+
